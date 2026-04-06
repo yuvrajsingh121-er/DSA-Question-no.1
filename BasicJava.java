@@ -9,7 +9,7 @@ public class BasicJava {
          System.out.println("enter value of b");
         int b = sc.nextInt();
         int sum = a + b;
-        System.out.println("Sum of two  number: "sum);
+        System.out.println("Sum of two  number: "+sum);
         sc.close();
 
     }
